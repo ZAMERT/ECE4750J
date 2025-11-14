@@ -1,5 +1,5 @@
 # ECE4750J
-SJTU-JI's course: ECE4750J programming homework
+SJTU-JI's course: ECE4750J Intro to Cryptography programming coursework.
 
 ## Description
 This is Yuchen's ECE4750J course materials. This repository is only used for storing personal code.
